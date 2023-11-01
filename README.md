@@ -1,4 +1,5 @@
 # apnaschool
 This is our first repository
 <br>
-Author: Aizaz Alam
+Author: Aizaz Alam (paracha)
+
